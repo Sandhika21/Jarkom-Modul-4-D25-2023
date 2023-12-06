@@ -73,6 +73,48 @@ Subnet Mask       : 255.255.255.192
 ```
 ---
 
+- Linie (A3)
+```
+IPv4 Address  : 10.34.18.1
+Subnet Mask   : 255.255.254.0
+```
+
+- GranzChannel (A3)
+```
+Default Gateaway  : 10.34.18.1
+IPv4 Address      : 10.34.18.1
+Subnet Mask       : 255.255.254.0
+```
+---
+
+- Linie (A4)
+```
+IPv4 Address  : 10.34.24.113
+Subnet Mask   : 255.255.255.252
+```
+
+- Lawine (A4)
+```
+IPv4 Address  : 10.34.24.114
+Subnet Mask   : 255.255.255.252
+```
+---
+
+- Linie (A5)
+```
+IPv4 Address  : 10.34.24.117
+Subnet Mask   : 255.255.255.252
+```
+
+- Eisen (A5)
+```
+IPv4 Address  : 10.34.24.118
+Subnet Mask   : 255.255.255.252
+```
+---
+
+
+
 
 
 ## GNS3 CIDR
