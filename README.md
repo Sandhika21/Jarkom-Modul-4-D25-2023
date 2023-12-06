@@ -82,7 +82,7 @@ Subnet Mask   : 255.255.254.0
 - GranzChannel (A3)
 ```
 Default Gateaway  : 10.34.18.1
-IPv4 Address      : 10.34.18.1
+IPv4 Address      : 10.34.18.2
 Subnet Mask       : 255.255.254.0
 ```
 ---
