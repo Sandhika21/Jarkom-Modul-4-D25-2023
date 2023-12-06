@@ -1,4 +1,34 @@
 # Jarkom-Modul-4-D25-2023
+| **No** | **Nama** | **NRP** | 
+| ------------- | ------------- | --------- |
+| 1 | Andrian Tambunan  | 5025211018 | 
+| 2 | Sandhika Surya Ardyanto | 5025211022 |
+
+## CPT VLSM
+| Subnet | Rute | Jumlah IP | Netmask |
+| -------- | ------ | --------- | -------- |
+| A1 | Heiter-Switch2-Sein&RiegelCanyon | 512 | /22 |
+| A2 | Lawine&Heiter-Switch1-BredtRegion | 31 | /26 | 
+| A3 | Linie-Switch0-GranzChannel | 255 | /23 |
+| A4 | Lawine-Linie | 2 | /30 |
+| A5 | Linie-Eisen | 2 | /30 |
+| A6 | Eisen-Switch3-Richter&Revolt | 3 | /29 |
+| A7 | Lugner-Switch4-GrobeForest | 251 | /24 |
+| A8 | Lugner-Switch5-TurkRegion | 1001 | /22 |
+| A9 | Lugner-Eisen | 2 | /30 |
+| A10 | Eisen-Switch12-Stark | 2 | /30 |
+| A11 | Denken-Switch10-RoyalCapital&WilleRegion | 127 | /24 | 
+| A12 | Denken-Aura | 2 | /30 |
+| A13 | Frieren-Aura | 2 | /30 | 
+| A14 | Fern-Switch8-AppetitRegion&LaubHills | 1023 | /21 |
+| A15 | Flamme-Switch7-RohrRoad | 1001 | /22 |
+| A16 | Himmel-Switch11-SchwerMountains | 6 | /29 |
+| A17 | Himmel-Flamme | 2 | /30 |
+| A18 | Flamme-Frieren | 2 | /30 |
+| A19 | Fern-Flamme | 2 | /30 |
+| A20 | Frieren-Switch6-LakeKorridor | 25 | /27 |
+| A21 | Eisen-Aura | 2 | /30 |
+
 
 ## GNS3 CIDR
 ### Pembagian Blok Subnet
