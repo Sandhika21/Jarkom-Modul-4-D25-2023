@@ -254,6 +254,7 @@ Subnet Mask       : 255.255.248.0
 Default Gateaway  : 10.34.8.1
 IPv4 Address      : 10.34.8.2
 Subnet Mask       : 255.255.248.0
+```
 ---
 
 - Flamme (A15)
