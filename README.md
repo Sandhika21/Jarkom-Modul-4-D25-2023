@@ -1,4 +1,5 @@
-# Jarkom-Modul-4-D25-2023
+# Jarkom-D25-modul-4
+
 | **No** | **Nama** | **NRP** | 
 | ------------- | ------------- | --------- |
 | 1 | Andrian Tambunan  | 5025211018 | 
@@ -52,13 +53,25 @@ Subnet Mask       : 255.255.252.0
 ```
 ---
 
-
-- Heiter (A1)
+- Heiter (A2)
 ```
 IPv4 Address  : 10.34.24.2
 Subnet Mask   : 255.255.255.192
 ```
 
+- Lawine (A2)
+```
+IPv4 Address  : 10.34.24.1
+Subnet Mask   : 255.255.255.192
+```
+
+- BredtRegion (A2)
+```
+Default Gateaway  : 10.34.24.1
+IPv4 Address      : 10.34.24.3
+Subnet Mask       : 255.255.255.192
+```
+---
 
 
 
