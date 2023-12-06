@@ -256,9 +256,99 @@ IPv4 Address      : 10.34.8.2
 Subnet Mask       : 255.255.248.0
 ---
 
+- Flamme (A15)
+```
+IPv4 Address  : 10.34.20.1
+Subnet Mask   : 255.255.252.0
+```
 
+- RohrRoad (A15)
+```
+Default Gateaway  : 10.34.20.1
+IPv4 Address      : 10.34.20.2
+Subnet Mask       : 255.255.252.0
+```
+---
 
+- Himmel (A16)
+```
+IPv4 Address  : 10.34.25.97
+Subnet Mask   : 255.255.252.0
+```
 
+- SchwerMountains (A16)
+```
+Default Gateaway  : 10.34.25.97
+IPv4 Address      : 10.34.25.98
+Subnet Mask       : 255.255.252.0
+```
+---
+
+- Flamme (A17)
+```
+IPv4 Address  : 10.34.24.137
+Subnet Mask   : 255.255.255.252
+```
+
+- Himmel (A17)
+```
+IPv4 Address  : 10.34.24.138
+Subnet Mask   : 255.255.255.252
+```
+---
+
+- Flamme (A18)
+```
+IPv4 Address  : 10.34.24.142
+Subnet Mask   : 255.255.255.252
+```
+
+- Frieren (A18)
+```
+IPv4 Address  : 10.34.24.141
+Subnet Mask   : 255.255.255.252
+```
+---
+
+- Flamme (A19)
+```
+IPv4 Address  : 10.34.24.145
+Subnet Mask   : 255.255.255.252
+```
+
+- Fern (A19)
+```
+IPv4 Address  : 10.34.24.146
+Subnet Mask   : 255.255.255.252
+```
+---
+
+- Frieren (A20)
+```
+IPv4 Address  : 10.34.24.65
+Subnet Mask   : 255.255.255.224
+```
+
+- LakeKorridor (A20)
+```
+Default Gateaway  : 10.34.24.65
+IPv4 Address      : 10.34.24.66
+Subnet Mask       : 255.255.255.224
+```
+---
+
+- Aura (A21)
+```
+IPv4 Address  : 10.34.24.149
+Subnet Mask   : 255.255.255.252
+```
+
+- Eisen (A21)
+```
+IPv4 Address  : 10.34.24.150
+Subnet Mask   : 255.255.255.252
+```
+---
 
 ## GNS3 CIDR
 ### Pembagian Blok Subnet
