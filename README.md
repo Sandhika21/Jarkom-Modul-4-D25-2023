@@ -113,9 +113,128 @@ Subnet Mask   : 255.255.255.252
 ```
 ---
 
+- Eisen (A6)
+```
+IPv4 Address  : 10.34.24.105
+Subnet Mask   : 255.255.255.248
+```
 
+- Richter (A6)
+```
+Default Gateaway  : 10.34.24.105
+IPv4 Address      : 10.34.24.106
+Subnet Mask       : 255.255.255.248
+```
 
+- Revolt (A6)
+```
+Default Gateaway  : 10.34.18.1
+IPv4 Address      : 10.34.24.107
+Subnet Mask       : 255.255.255.248
+```
+---
 
+- Lugner (A7)
+```
+IPv4 Address  : 10.34.17.1
+Subnet Mask   : 255.255.255.0
+```
+
+- GrobeForest (A7)
+```
+Default Gateaway  : 10.34.17.1
+IPv4 Address      : 10.34.17.2
+Subnet Mask       : 255.255.255.0
+```
+---
+
+- Lugner (A8)
+```
+IPv4 Address  : 10.34.4.1
+Subnet Mask   : 255.255.252.0
+```
+
+- TurkRegion (A8)
+```
+Default Gateaway  : 10.34.4.1
+IPv4 Address      : 10.34.4.2
+Subnet Mask       : 255.255.252.0
+```
+---
+
+- Lugner (A9)
+```
+IPv4 Address  : 10.34.24.122
+Subnet Mask   : 255.255.255.252
+```
+
+- Eisen (A9)
+```
+IPv4 Address  : 10.34.24.121
+Subnet Mask   : 255.255.255.252
+```
+---
+
+- Eiseb (A10)
+```
+IPv4 Address  : 10.34.24.125
+Subnet Mask   : 255.255.252.0
+```
+
+- Stark (A10)
+```
+Default Gateaway  : 10.34.24.125
+IPv4 Address      : 10.34.24.126
+Subnet Mask       : 255.255.252.0
+```
+---
+
+- Denken (A11)
+```
+IPv4 Address  : 10.34.16.1
+Subnet Mask   : 255.255.255.0
+```
+
+- RoyalCapital (A11)
+```
+Default Gateaway  : 10.34.16.1
+IPv4 Address      : 10.34.16.2
+Subnet Mask       : 255.255.255.0
+```
+
+- WilleRegion (A11)
+```
+Default Gateaway  : 10.34.16.1
+IPv4 Address      : 10.34.16.65
+Subnet Mask       : 255.255.255.0
+```
+---
+
+- Aura (A12)
+```
+IPv4 Address  : 10.34.24.129
+Subnet Mask   : 255.255.255.252
+```
+
+- Denken (A12)
+```
+IPv4 Address  : 10.34.24.130
+Subnet Mask   : 255.255.255.252
+```
+---
+
+- Aura (A13)
+```
+IPv4 Address  : 10.34.24.133
+Subnet Mask   : 255.255.255.252
+```
+
+- Frieren (A13)
+```
+IPv4 Address  : 10.34.24.134
+Subnet Mask   : 255.255.255.252
+```
+---
 
 ## GNS3 CIDR
 ### Pembagian Blok Subnet
