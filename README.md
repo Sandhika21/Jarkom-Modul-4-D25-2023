@@ -128,7 +128,7 @@ Subnet Mask       : 255.255.255.248
 
 - Revolt (A6)
 ```
-Default Gateaway  : 10.34.18.1
+Default Gateaway  : 10.34.24.105
 IPv4 Address      : 10.34.24.107
 Subnet Mask       : 255.255.255.248
 ```
