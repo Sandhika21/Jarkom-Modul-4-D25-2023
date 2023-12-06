@@ -38,7 +38,7 @@
 
 | Subnet 1 | Netmask 1 | Subnet 2 | Neetmask 2 | Blok Subnet | Netmask Blok |
 | ----------- | ----------- | ------------ | ----------- | ----------- | ------------ |
-| F1 | /17 | A21 | /21 | G1 | /16 |
+| F1 | /17 | A21 | /30 | G1 | /16 |
 | F2 | /17 | A18 | /30 | G2 | /16 |
 
 | Subnet 1 | Netmask 1 | Subnet 2 | Neetmask 2 | Blok Subnet | Netmask Blok |
