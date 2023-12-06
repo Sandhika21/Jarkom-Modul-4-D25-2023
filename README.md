@@ -274,14 +274,14 @@ Subnet Mask       : 255.255.252.0
 - Himmel (A16)
 ```
 IPv4 Address  : 10.34.25.97
-Subnet Mask   : 255.255.252.0
+Subnet Mask   : 255.255.255.248
 ```
 
 - SchwerMountains (A16)
 ```
 Default Gateaway  : 10.34.25.97
 IPv4 Address      : 10.34.25.98
-Subnet Mask       : 255.255.252.0
+Subnet Mask       : 255.255.255.248
 ```
 ---
 
