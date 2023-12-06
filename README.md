@@ -102,13 +102,13 @@ Subnet Mask   : 255.255.255.252
 
 - Linie (A5)
 ```
-IPv4 Address  : 10.34.24.117
+IPv4 Address  : 10.34.24.118
 Subnet Mask   : 255.255.255.252
 ```
 
 - Eisen (A5)
 ```
-IPv4 Address  : 10.34.24.118
+IPv4 Address  : 10.34.24.117
 Subnet Mask   : 255.255.255.252
 ```
 ---
