@@ -38,11 +38,12 @@ Subnet Mask   : 255.255.252.0
 ```
 
 - Sien (A1)
-  ```
+```
 Default Gateaway  : 10.34.0.1
 IPv4 Address      : 10.34.0.2
 Subnet Mask       : 255.255.252.0
 ```
+
 - RiegelCanyon (A1)
 ```
 Default Gateaway  : 10.34.0.1
@@ -50,17 +51,15 @@ IPv4 Address      : 10.34.0.3
 Subnet Mask       : 255.255.252.0
 ```
 ---
-- Sien (A1)
-  ```
-IPv4 Address  : 10.34.0.1
-Subnet Mask   : 255.255.252.0
+
+
+- Heiter (A1)
+```
+IPv4 Address  : 10.34.24.2
+Subnet Mask   : 255.255.255.192
 ```
 
-- Sien (A1)
-  ```
-IPv4 Address  : 10.34.0.1
-Subnet Mask   : 255.255.252.0
-```
+
 
 
 ## GNS3 CIDR
