@@ -4,7 +4,6 @@
 | 1 | Andrian Tambunan  | 5025211018 | 
 | 2 | Sandhika Surya Ardyanto | 5025211022 |
 
-## CPT VLSM
 | Subnet | Rute | Jumlah IP | Netmask |
 | -------- | ------ | --------- | -------- |
 | A1 | Heiter-Switch2-Sein&RiegelCanyon | 512 | /22 |
@@ -28,6 +27,40 @@
 | A19 | Fern-Flamme | 2 | /30 |
 | A20 | Frieren-Switch6-LakeKorridor | 25 | /27 |
 | A21 | Eisen-Aura | 2 | /30 |
+
+## CPT VLSM
+### Pembagian IP 
+---
+- Heiter (A1)
+```
+IPv4 Address  : 10.34.0.1
+Subnet Mask   : 255.255.252.0
+```
+
+- Sien (A1)
+  ```
+Default Gateaway  : 10.34.0.1
+IPv4 Address      : 10.34.0.2
+Subnet Mask       : 255.255.252.0
+```
+- RiegelCanyon (A1)
+```
+Default Gateaway  : 10.34.0.1
+IPv4 Address      : 10.34.0.3
+Subnet Mask       : 255.255.252.0
+```
+---
+- Sien (A1)
+  ```
+IPv4 Address  : 10.34.0.1
+Subnet Mask   : 255.255.252.0
+```
+
+- Sien (A1)
+  ```
+IPv4 Address  : 10.34.0.1
+Subnet Mask   : 255.255.252.0
+```
 
 
 ## GNS3 CIDR
