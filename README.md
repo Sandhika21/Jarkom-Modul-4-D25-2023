@@ -236,6 +236,30 @@ Subnet Mask   : 255.255.255.252
 ```
 ---
 
+- Fern (A14)
+```
+IPv4 Address  : 10.34.8.1
+Subnet Mask   : 255.255.248.0
+```
+
+- AppetitRegion (A14)
+```
+Default Gateaway  : 10.34.8.1
+IPv4 Address      : 10.34.9.142
+Subnet Mask       : 255.255.248.0
+```
+
+- LaubHills (A14)
+```
+Default Gateaway  : 10.34.8.1
+IPv4 Address      : 10.34.8.2
+Subnet Mask       : 255.255.248.0
+---
+
+
+
+
+
 ## GNS3 CIDR
 ### Pembagian Blok Subnet
 | Subnet 1 | Netmask 1 | Subnet 2 | Neetmask 2 | Blok Subnet | Netmask Blok |
